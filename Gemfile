@@ -64,3 +64,12 @@ group :development do
   # gem "spring"
 end
 
+
+gem "rspec-rails", "~> 5.1"
+
+gem "devise", "~> 4.8"
+
+gem "react-rails", "~> 2.6"
+
+gem "webpacker", "~> 3"
+ 
